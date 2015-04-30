@@ -1,0 +1,146 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mreed",
+    "longName": "animated blocks",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/1X1_BG.png",
+                "name": "IMAGE_BATT_10",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-20-bw.png",
+                "name": "IMAGE_BATT_20",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-30-bw.png",
+                "name": "IMAGE_BATT_30",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-40-bw.png",
+                "name": "IMAGE_BATT_40",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-50-bw.png",
+                "name": "IMAGE_BATT_50",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-60-bw.png",
+                "name": "IMAGE_BATT_60",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-charge3.png",
+                "name": "IMAGE_BATT_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-100-bw.png",
+                "name": "IMAGE_BATT_100",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-90-bw.png",
+                "name": "IMAGE_BATT_90",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-80-bw.png",
+                "name": "IMAGE_BATT_80",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-70-bw.png",
+                "name": "IMAGE_BATT_70",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/Planer_Reg.ttf",
+                "name": "FONT_CUSTOM_36",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Planer_Reg.ttf",
+                "name": "FONT_CUSTOM_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Planer_Reg.ttf",
+                "name": "FONT_CUSTOM_22",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Planer_Reg.ttf",
+                "name": "FONT_CUSTOM_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Planer_Reg.ttf",
+                "name": "FONT_CUSTOM_14",
+                "type": "font"
+            },
+            {
+                "file": "images/box4.png",
+                "name": "IMAGE_BLOCK4",
+                "type": "png"
+            },
+            {
+                "file": "images/box8.png",
+                "name": "IMAGE_BLOCK8",
+                "type": "png"
+            },
+            {
+                "file": "images/box7.png",
+                "name": "IMAGE_BLOCK7",
+                "type": "png"
+            },
+            {
+                "file": "images/box6.png",
+                "name": "IMAGE_BLOCK6",
+                "type": "png"
+            },
+            {
+                "file": "images/box5.png",
+                "name": "IMAGE_BLOCK5",
+                "type": "png"
+            },
+            {
+                "file": "images/box3.png",
+                "name": "IMAGE_BLOCK3",
+                "type": "png"
+            },
+            {
+                "file": "images/block1-bw.png",
+                "name": "IMAGE_BLOCK1",
+                "type": "png"
+            },
+            {
+                "file": "images/box2.png",
+                "name": "IMAGE_BLOCK2",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "animblocks",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "48f07128-abc0-4c3a-9782-65e06d86b22c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
